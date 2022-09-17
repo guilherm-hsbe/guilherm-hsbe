@@ -4,4 +4,4 @@
 
 ### Conhecimentos (Programação):
 - 💻 Estudados em ADS: Python, C#, HTML, CSS, PHP, SQL
-- ✏️ Aprendendo: JavaScript, Laravel
+- ✏️ Aprendendo: JavaScript, Laravel, React
