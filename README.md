@@ -1,6 +1,6 @@
 # Olá :wave:🏽, bem-vindo!
 
-> ### :books: Cursando Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente
+### :books: Cursando Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente
 </br>
 
 <!--Card-->
@@ -20,7 +20,6 @@
 
 <!--Contato-->
 ## Me Encontre :earth_americas:
-- Produzindo na [SoundCloud](https://soundcloud.com/soulmeoni) :headphones:
-- Artes no [DevianArt](https://www.deviantart.com/justanothercomet) :paintbrush:
 
-
+> - Produzindo na [SoundCloud](https://soundcloud.com/soulmeoni) :headphones:
+> - Artes no [DevianArt](https://www.deviantart.com/justanothercomet) :paintbrush:
