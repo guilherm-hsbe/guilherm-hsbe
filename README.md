@@ -15,7 +15,7 @@
 ### :orange_book: ``JavaScript`` ``Python`` ``PHP`` ``C#`` ``HTML`` ``CSS`` ``Bootstrap`` ``React`` ``NodeJS`` ``Laravel`` ``MySQL`` ``Linux`` ``Photoshop`` ``FLStudio`` ``Ableton``
 
 <!--Status-->
-> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&theme=vue"/>
+> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&theme=github_dark"/>
 </br>
 
 <!--Contato-->
