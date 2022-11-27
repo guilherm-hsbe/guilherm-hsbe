@@ -18,7 +18,7 @@
 </br>
 
 <!--Contato-->
-## Me Encontre :earth_americas:
+## Mídias :earth_americas:
 
 - Produzindo na [SoundCloud](https://soundcloud.com/soulmeoni) :headphones:
 - Artes no [DevianArt](https://www.deviantart.com/justanothercomet) :paintbrush:
