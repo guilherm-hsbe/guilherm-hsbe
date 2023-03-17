@@ -18,7 +18,8 @@
 </br>
 
 <!--Contato-->
-## Mídias :earth_americas:
+<!--  ## Mídias :earth_americas:
 
 - [SoundCloud](https://soundcloud.com/soulmeoni) :headphones:
 - [DevianArt](https://www.deviantart.com/justanothercomet) :paintbrush:
+-->
