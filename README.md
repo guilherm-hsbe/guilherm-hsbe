@@ -15,7 +15,7 @@
 ### :pushpin: ``JavaScript`` ``Python`` ``PHP`` ``C#`` ``HTML`` ``CSS`` ``Bootstrap`` ``Skeleton CSS``  ``React`` ``Laravel`` ``MySQL`` ``Linux`` ``Photoshop`` ``Fl Studio 20`` ``Ableton Live``
 
 <!--Status-->
-> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&theme=github_dark"/>
+> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&theme=github_dark&hide_progress=true"/>
 </br>
 
 <!--Contato-->
