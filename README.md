@@ -1,4 +1,4 @@
-# Bem-vindo! :wave:
+# Bem-vindo(a)! :wave:
 
 ### :books: Cursando Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente
 </br>
