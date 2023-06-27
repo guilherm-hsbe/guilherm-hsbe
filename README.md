@@ -1,6 +1,6 @@
 # Bem-vindo(a)! :wave:
 
-### :books: Cursando Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente
+### :books: Cursando Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente
 </br>
 
 <!--Card-->
