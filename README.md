@@ -1,7 +1,7 @@
 # Bem-vindo(a)! :wave:
 
 <!-- ─── CARD ────────────────────────────── -->
-<img width="95%" src="https://i.imgur.com/pzitM4j.png">
+![laptop_purple_square](https://github.com/guilherm-hsbe/guilherm-hsbe/assets/99516132/c6ea7543-1419-4498-b58c-0fd877cee8a2)
 
 Olá, meu nome é Guilherme Henrique, e sou um desenvolvedor full-stack, atualmente me inserindo no mercado de trabalho da tecnologia da informação.
 
