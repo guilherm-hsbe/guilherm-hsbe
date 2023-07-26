@@ -3,14 +3,15 @@
 <!-- ─── CARD ────────────────────────────── -->
 <img width="95%" src="https://i.imgur.com/pzitM4j.png">
 
-Sou aluno de ADS na Fatec de Presidente Prudente, estudo e treino os conhecimentos instruídos no curso, como linguagens de programação (front-end, back-end), frameworks, banco de dados...
+Olá, meu nome é Guilherme Henrique, e sou um desenvolvedor full-stack, atualmente me inserindo no mercado de trabalho da tecnologia da informação.
 
-Neste momento, encontro-me na fase final da minha graduação em ADS e tenho me dedicado especialmente ao estudo aprofundado do framework Laravel, assim como seus componentes, como PHP, HTML, CSS e MySQL.
+Cursei Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023), e atualmente estudo e treino os conhecimentos instruídos no curso, como linguagens de programação (front-end, back-end), frameworks, banco de dados, entre outros.
 
-O **[Blogline :leaves:](https://github.com/guilherm-hsbe/Blogline)** é atualmente o meu principal foco. É uma plataforma de blog colaborativo focada em arte e criatividade, desenvolvida por mim.
+Neste momento, encontro-me na fase final da minha graduação em ADS (aguardando diploma) e tenho me dedicado especialmente ao estudo do framework Laravel, assim como seus componentes, como PHP, HTML, CSS e MySQL.
 
-Com uma interface moderna e intuitiva, o projeto oferece um espaço inspirador para compartilhar trabalhos e ideias. Construído com o framework Laravel e tecnologias como HTML, CSS, JavaScript e PHP, o projeto incentiva a colaboração e está aberto a contribuições da comunidade.
+O **[Blogline :leaves:](https://github.com/guilherm-hsbe/Blogline)** é atualmente o meu principal foco. É uma plataforma de blog colaborativo focada em arte e criatividade que estou desenvolvendo.
 
+O projeto promete oferecer uma interface moderna e intuitiva e um espaço inspirador para compartilhar trabalhos e ideias. Construído com o framework Laravel e tecnologias como HTML, CSS, JavaScript e PHP, o projeto incentiva a colaboração e está aberto a contribuições da comunidade.
 
 <!-- ─── CONTATO ────────────────────────────── -->
 ## :earth_americas: Contato
