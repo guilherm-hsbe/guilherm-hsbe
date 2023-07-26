@@ -7,20 +7,13 @@
 <img width="100%" src="https://i.imgur.com/pzitM4j.png">
 
 > ### Sou aluno de ADS na Fatec de Presidente Prudente, estudo e treino os conhecimentos instruídos no curso, como linguagens de programação (front-end, back-end), frameworks, banco de dados...
-> ### Estou atualmente concluindo minha graduação em ADS, e meu foco é estudar o framework Laravel, assim como seus componentes, como PHP, HTML, CSS e MySQL.
+> ### Neste momento, encontro-me na fase final da minha graduação em ADS e tenho me dedicado especialmente ao estudo aprofundado do framework Laravel, assim como seus componentes, como PHP, HTML, CSS e MySQL.
 </br>
 
 <!--Linguagens-->
-## Conhecimentos :card_index_dividers::
-### :pushpin: ``JavaScript`` ``Python`` ``PHP`` ``C#`` ``HTML`` ``CSS`` ``Bootstrap`` ``Skeleton CSS``  ``React`` ``Laravel`` ``MySQL`` ``Linux`` ``Photoshop`` ``Fl Studio 20`` ``Ableton Live``
+## Conhecimentos :card_index_dividers:
+### :pushpin: ``JavaScript`` ``PHP`` ``C#`` ``HTML`` ``CSS`` ``Bootstrap`` ``MySQL`` ``Figma``
 
 <!--Status-->
 > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&theme=github_dark&hide_progress=true&PAT_1=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"/>
 </br>
-
-<!--Contato-->
-<!--  ## Mídias :earth_americas:
-
-- [SoundCloud](https://soundcloud.com/soulmeoni) :headphones:
-- [DevianArt](https://www.deviantart.com/justanothercomet) :paintbrush:
--->
