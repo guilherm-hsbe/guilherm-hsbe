@@ -11,14 +11,20 @@
 </br>
 
 <!-- ─── CONHECIMENTOS ────────────────────────────── -->
-## Conhecimentos :card_index_dividers:
+## Habilidades e Tecnologias :game_die:
 ### :pushpin: ``JavaScript`` ``PHP`` ``C#`` ``HTML`` ``CSS`` ``Bootstrap`` ``MySQL`` ``Figma``
 
 <!-- ─── STATUS ────────────────────────────── -->
-> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&theme=github_dark&hide_progress=true&PAT_1=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"/>
+> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&locale=pt-br&theme=github_dark_dimmedk&hide_progress=true&PAT_1=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"/>
 </br>
 
+<!-- ─── PROJETOS ────────────────────────────── -->
+## Projetos :jigsaw:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherm-hsbe&repo=Blogline&theme=github_dark_dimmed&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 <!-- ─── CONTATO ────────────────────────────── -->
-## Mídias :earth_americas:
+## Contato :earth_americas:
 - Email :email: [guilherm3hsb@gmail.com](mailto:guilherm3hsb@gmail.com)
 - WhatsApp :calling: [+5518988058371](https://wa.me/5518988058371)
