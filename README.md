@@ -1,7 +1,7 @@
 # Bem-vindo(a)! :wave:
 
 <!-- ─── CARD ────────────────────────────── -->
-<img width="100%" src="https://i.imgur.com/pzitM4j.png">
+<img width="80%" src="https://i.imgur.com/pzitM4j.png">
 
 Sou aluno de ADS na Fatec de Presidente Prudente, estudo e treino os conhecimentos instruídos no curso, como linguagens de programação (front-end, back-end), frameworks, banco de dados...
 
