@@ -15,7 +15,7 @@
 ### :pushpin: ``JavaScript`` ``PHP`` ``C#`` ``HTML`` ``CSS`` ``Bootstrap`` ``MySQL`` ``Figma``
 
 <!-- ─── STATUS ────────────────────────────── -->
-> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&locale=pt-br&theme=github_dark_dimmedk&hide_progress=true&PAT_1=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"/>
+> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&locale=pt-br&theme=github_dark_dimmed&hide_progress=true&PAT_1=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"/>
 </br>
 
 <!-- ─── PROJETOS ────────────────────────────── -->
