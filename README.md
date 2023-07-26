@@ -17,3 +17,8 @@
 <!--Status-->
 > <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherm-hsbe&layout=compact&theme=github_dark&hide_progress=true&PAT_1=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"/>
 </br>
+
+<!--Contato-->
+## Mídias :earth_americas:
+- Email :email: [guilherm3hsb@gmail.com](mailto:guilherm3hsb@gmail.com)
+- WhatsApp :calling: [+5518988058371](https://wa.me/5518988058371)
