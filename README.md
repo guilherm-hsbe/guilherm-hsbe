@@ -7,7 +7,7 @@ Olá :v:, meu nome é Guilherme Henrique, e sou um desenvolvedor full-stack, atu
 
 Cursei Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023), e atualmente estudo e treino os conhecimentos instruídos no curso, como linguagens de programação (front-end, back-end), frameworks, banco de dados, entre outros.
 
-Neste momento, encontro-me na fase final da minha graduação em ADS (aguardando diploma) e tenho me dedicado especialmente ao estudo do framework Laravel, assim como seus componentes, como PHP, HTML, CSS e MySQL.
+Encontro-me na fase final da minha graduação em ADS (aguardando diploma) e tenho me dedicado especialmente à pratica com o framework Laravel, assim como seus componentes, como PHP, HTML, CSS e MySQL.
 
 O **[Blogline :leaves:](https://github.com/guilherm-hsbe/Blogline)** é atualmente o meu principal foco. É uma plataforma de blog colaborativo focada em arte e criatividade que estou desenvolvendo.
 
