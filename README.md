@@ -18,5 +18,5 @@ O **[Blogline :leaves:](https://github.com/guilherm-hsbe/Blogline)** é atualmen
 
 <!-- ─── CONTATO ────────────────────────────── -->
 ## :earth_americas: Contato
-- Email :email: [guilherm3hsb@gmail.com](mailto:guilherm3hsb@gmail.com)
-- WhatsApp :calling: [+5518988058371](https://wa.me/5518988058371)
+- Email :email: **[guilherm3hsb@gmail.com](mailto:guilherm3hsb@gmail.com)**
+- WhatsApp :calling: **[+5518988058371](https://wa.me/5518988058371)**
