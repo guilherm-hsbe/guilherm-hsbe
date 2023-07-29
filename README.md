@@ -6,7 +6,7 @@
 ### Sobre mim
 Olá :v:, meu nome é Guilherme Henrique, e sou um desenvolvedor full-stack, atualmente me inserindo no mercado de trabalho de TI. Trabalho como estagiário na Secretaria Municipal de Saúde de Presidente Prudente (abril de 2023 - atual), onde desenvolvo e estudo o sistema, utilizando a tecnologia ASP.NET e programando especificamente em C#. 
 
-Eu possuo uma página de portfolio profissional, desenvolvida em HTML, CSS e Bootstrap, e projetada para conter apresentações aos meus projetos e principais informações sobre mim. [(visualizar)](https://guilherm-hsbe.github.io/Portfolio/)
+Eu possuo uma página de portfolio profissional, desenvolvida em HTML, CSS e Bootstrap, e projetada para conter apresentações aos meus projetos e principais informações sobre mim. **[(visualizar)](https://guilherm-hsbe.github.io/Portfolio/)**
 
 ### Formação e Conhecimentos
 Cursei Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023), e atualmente estudo e treino os conhecimentos instruídos no curso, como linguagens de programação, frameworks, banco de dados, entre outros.
