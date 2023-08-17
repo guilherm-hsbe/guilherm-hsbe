@@ -13,8 +13,9 @@ Cursei Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prude
 
 Estou na fase final da minha graduação em ADS (aguardando diploma) e tenho me dedicado especialmente à pratica com o framework Laravel, assim como seus componentes, como PHP, HTML, CSS e MySQL.
 
-### Projeto em foco
-O **[Blogline :leaves:](https://github.com/guilherm-hsbe/Blogline)** é atualmente o meu projeto pessoal de principal foco. É uma plataforma de blog colaborativo focada em arte e criatividade que estou desenvolvendo. O projeto promete oferecer uma interface moderna e intuitiva e um espaço inspirador para compartilhar trabalhos e ideias. Construído com o framework Laravel e tecnologias como HTML, CSS, JavaScript e PHP, o projeto incentiva a colaboração e está aberto a contribuições.
+### Foco aqual
+Meu principal foco atualmente são as atividades que desempenho em meu estágio, envolvendo o desenvolvimento com a plataforma **ASPNET**, utilizando C#, SQL, JS, HTML e CSS.
+E meu projeto secundário se trata do **[Blogline :leaves:](https://github.com/guilherm-hsbe/Blogline)**. É uma plataforma de blog colaborativo focada em arte e criatividade que estou desenvolvendo. O projeto promete oferecer uma interface moderna e intuitiva e um espaço inspirador para compartilhar trabalhos e ideias. Construído com o framework Laravel e tecnologias como HTML, CSS, JavaScript e PHP, o projeto incentiva a colaboração e está aberto a contribuições.
 
 <!-- ─── CONTATO ────────────────────────────── -->
 ## :earth_americas: Contato
