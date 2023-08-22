@@ -9,9 +9,7 @@ Olá :v:, meu nome é Guilherme Henrique, e sou um desenvolvedor full-stack, atu
 Eu possuo uma página de portfolio profissional, desenvolvida em HTML, CSS e Bootstrap, e projetada para conter apresentações aos meus projetos e principais informações sobre mim. **[(visualizar)](https://guilherm-hsbe.github.io/Portfolio/)**
 
 ### Formação e Conhecimentos
-Cursei Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023), e atualmente estudo e treino os conhecimentos instruídos no curso, como linguagens de programação, frameworks, banco de dados, entre outros.
-
-Estou na fase final da minha graduação em ADS (aguardando diploma) e tenho me dedicado especialmente ao meu estágio com ASPNET.
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023), e atualmente estudo e treino os conhecimentos instruídos no curso, como linguagens de programação, frameworks, banco de dados, entre outros.
 
 ### Foco aqual
 Meu principal foco atualmente são as atividades que desempenho em meu estágio, envolvendo o desenvolvimento com a plataforma **ASPNET**, utilizando C#, SQL, JS, HTML e CSS.
