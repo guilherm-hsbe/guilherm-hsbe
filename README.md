@@ -8,7 +8,7 @@ Olá :v:, meu nome é Guilherme Henrique, e sou um desenvolvedor full-stack, atu
 
 Eu possuo uma página de portfolio profissional, desenvolvida em HTML, CSS e Bootstrap, e projetada para conter apresentações aos meus projetos e principais informações sobre mim. **[(visualizar)](https://guilherm-hsbe.github.io/Portfolio/)**
 
-### Formação e Conhecimentos
+### Formação e conhecimentos
 Sou formado em Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023), e atualmente estudo e treino os conhecimentos adquiridos no curso, como linguagens de programação, frameworks, banco de dados, entre outros.
 
 ### Foco atual
