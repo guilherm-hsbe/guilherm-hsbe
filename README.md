@@ -12,7 +12,7 @@ Eu possuo uma página de portfolio profissional, desenvolvida em HTML, CSS e Boo
 Sou formado em Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023), e atualmente estudo e treino os conhecimentos adquiridos no curso, como linguagens de programação, frameworks, banco de dados, entre outros.
 
 ### Foco atual
-Meu principal foco atualmente são as atividades que desempenho em meu estágio, envolvendo o desenvolvimento com a plataforma **ASPNET WebForms**, utilizando C#, SQL, JS, HTML e CSS.
+Meu principal foco atualmente são as atividades que desempenho em meu estágio, envolvendo o desenvolvimento com a plataforma **ASP.NET WebForms**, utilizando C#, SQL, JS, Bootstrap, HTML e CSS.
 E meu foco segundário é aprender sobre comandos e funcionamento do **Git :octocat:**, entendimento sobre **controle de versão**, e desenvolvimento com o framework **ASP.NET Core**.
 
 <!-- E meu projeto secundário se trata do **[Blogline :leaves:](https://github.com/guilherm-hsbe/Blogline)**. É uma plataforma de blog colaborativo focada em arte e criatividade que estou desenvolvendo. O projeto promete oferecer uma interface moderna e intuitiva e um espaço inspirador para compartilhar trabalhos e ideias. Construído com o framework Laravel e tecnologias como HTML, CSS, JavaScript e PHP, o projeto incentiva a colaboração e está aberto a contribuições. -->
