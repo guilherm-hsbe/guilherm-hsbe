@@ -1,23 +1,7 @@
 # Bem-vindo(a)! :wave:
-
-<!-- ─── CARD ────────────────────────────── -->
-![laptop_purple_square](https://github.com/guilherm-hsbe/guilherm-hsbe/assets/99516132/c6ea7543-1419-4498-b58c-0fd877cee8a2)
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**, atualmente me profissionalizando como desenvolvedor full-stack.
 
 ### Sobre mim
-Olá :v:, meu nome é Guilherme Henrique, e sou um desenvolvedor full-stack, atualmente me inserindo no mercado de trabalho de TI. Trabalho como estagiário na Secretaria Municipal de Saúde de Presidente Prudente (abril de 2023 - atual), onde desenvolvo e estudo o sistema, utilizando a tecnologia ASP.NET e programando especificamente em C#. 
-
-Eu possuo uma página de portfolio profissional, desenvolvida em HTML, CSS e Bootstrap, e projetada para conter apresentações aos meus projetos e principais informações sobre mim. **[(visualizar)](https://guilherm-hsbe.github.io/Portfolio/)**
-
-### Formação e conhecimentos
-Sou formado em Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023), e atualmente estudo e treino os conhecimentos adquiridos no curso, como linguagens de programação, frameworks, banco de dados, entre outros.
-
-### Foco atual
-Meu principal foco atualmente são as atividades que desempenho em meu estágio, envolvendo o desenvolvimento com a plataforma **ASP.NET WebForms**, utilizando C#, SQL, JS, Bootstrap, HTML e CSS.
-E meu foco segundário é aprender sobre comandos e funcionamento do **Git :octocat:**, entendimento sobre **controle de versão**, e desenvolvimento com o framework **ASP.NET Core**.
-
-<!-- E meu projeto secundário se trata do **[Blogline :leaves:](https://github.com/guilherm-hsbe/Blogline)**. É uma plataforma de blog colaborativo focada em arte e criatividade que estou desenvolvendo. O projeto promete oferecer uma interface moderna e intuitiva e um espaço inspirador para compartilhar trabalhos e ideias. Construído com o framework Laravel e tecnologias como HTML, CSS, JavaScript e PHP, o projeto incentiva a colaboração e está aberto a contribuições. -->
-
-<!-- ─── CONTATO ────────────────────────────── -->
-## :earth_americas: Contato
-- Email :email: **[guilherm3hsb@gmail.com](mailto:guilherm3hsb@gmail.com)**
-- WhatsApp :calling: **[+55 (18) 98805-8371](https://wa.me/5518988058371)**
+Trabalhos profissionais principais envolvendo **ASP.NET WebForms**, **SQL**, **Git**, **JS** e **HTML**. <br>
+Formado em Análise e Desenvolvimento de Sistemas (ADS) na Fatec de Presidente Prudente (2020-2023). <br>
+Mais informações no **[portfolio profissional](https://guilherm-hsbe.github.io/Portfolio/)**.
