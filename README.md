@@ -1,5 +1,5 @@
 # Bem-vindo(a)! :wave:
-Sou tecnólogo em **Análise e Desenvolvimento de Sistemas**, atualmente me profissionalizando como desenvolvedor full-stack.
+Tecnólogo em **Análise e Desenvolvimento de Sistemas**.
 
 ### Sobre mim
 Trabalhos profissionais principais envolvendo **ASP.NET WebForms**, **SQL**, **Git**, **JS** e **HTML**. <br>
